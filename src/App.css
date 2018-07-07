@@ -1,0 +1,72 @@
+
+
+.products_section{
+  width: 990px;
+  height: 300px;
+  margin: auto;
+  border: 1px solid gray;
+  position: relative;
+}
+
+.formseach{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.seach{
+  width: 163px;
+}
+
+.img{
+  position: absolute;
+  top: 50%;
+  margin-top: -110px;
+  margin-left: 10px;
+}
+
+.description{
+  width: 500px;
+  margin: auto;
+  margin-top: 10px;
+  font-size: 0.9em;
+}
+
+.product_code{
+  font-size: 0.7em;
+}
+
+.accessory{
+  width: 500px;
+  margin: auto;
+  font-size: 0.8em;
+}
+
+p {
+  margin-bottom: 0.1em;
+}
+
+.order{
+  position: absolute;
+  left: 800px;
+  top: 30px;
+}
+
+.ng-binding{
+  font-size: 0.8em;
+  margin: 3px;
+}
+
+.product__count{
+  width: 30px;
+}
+
+.product_status{
+  color: green;
+}
+.cost{
+  font-size: 2em;
+}
+.serp{
+  color: red;
+}
+
